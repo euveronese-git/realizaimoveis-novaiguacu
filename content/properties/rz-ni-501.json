@@ -1,0 +1,33 @@
+{
+  "id": "rz-ni-501",
+  "code": "RZ-NI501",
+  "title": "Sala Comercial no Centro de Nova Iguaçu",
+  "type": "comercial",
+  "category": "comercial",
+  "price": 280000,
+  "condoFee": 450,
+  "iptuAnnual": 800,
+  "neighborhood": "Centro (Nova Iguaçu)",
+  "address": "R. José Moacir Nogueira, 100",
+  "city": "Nova Iguaçu",
+  "state": "RJ",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "suites": 0,
+  "parkingSpaces": 1,
+  "areaSqM": 42,
+  "featured": true,
+  "featuredBadge": "Comercial",
+  "isMcmvEligible": false,
+  "downPaymentMin": 0,
+  "description": "Sala comercial bem localizada no Centro de Nova Iguaçu, ideal para escritório ou atendimento.",
+  "images": [
+    "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1200&q=80"
+  ],
+  "features": [
+    "Centro de Nova Iguaçu",
+    "1 vaga",
+    "Pronto para uso"
+  ],
+  "createdAt": "2026-08-10"
+}

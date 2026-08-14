@@ -1,0 +1,33 @@
+{
+  "id": "rz-cg-103",
+  "code": "RZ-CG103",
+  "title": "Casa Duplex com Quintal em Condomínio Fechado em Campo Grande",
+  "type": "casa",
+  "category": "alto_padrao",
+  "price": 340000,
+  "condoFee": 280,
+  "iptuAnnual": 650,
+  "neighborhood": "Campo Grande (Mendonça)",
+  "address": "Estrada do Cabuçu, 850",
+  "city": "Rio de Janeiro",
+  "state": "RJ",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "suites": 1,
+  "parkingSpaces": 2,
+  "areaSqM": 92,
+  "featured": false,
+  "featuredBadge": "Casa em Condomínio",
+  "isMcmvEligible": true,
+  "downPaymentMin": 30000,
+  "description": "Casa duplex em condomínio fechado, 3 quartos, quintal e 2 vagas.",
+  "images": [
+    "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+  ],
+  "features": [
+    "3 Quartos com Suíte",
+    "Quintal Privativo",
+    "Condomínio Fechado"
+  ],
+  "createdAt": "2026-07-29"
+}

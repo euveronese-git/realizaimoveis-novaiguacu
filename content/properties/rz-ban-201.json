@@ -1,0 +1,32 @@
+{
+  "id": "rz-ban-201",
+  "code": "RZ-BAN201",
+  "title": "Lançamento Residencial Bangu Real - Entrada a partir de R\\$ 800",
+  "type": "apartamento",
+  "category": "lancamento_mcmv",
+  "price": 185000,
+  "condoFee": 190,
+  "iptuAnnual": 0,
+  "neighborhood": "Bangu",
+  "address": "Rua Silva Cardoso, 450",
+  "city": "Rio de Janeiro",
+  "state": "RJ",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "suites": 0,
+  "parkingSpaces": 1,
+  "areaSqM": 45,
+  "featured": true,
+  "featuredBadge": "Entrada Facilitada",
+  "isMcmvEligible": true,
+  "downPaymentMin": 800,
+  "description": "Lançamento enquadrado na Faixa 2 do Minha Casa Minha Vida em Bangu.",
+  "images": [
+    "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80"
+  ],
+  "features": [
+    "Taxa de Juros Reduzida MCMV",
+    "A 5 min do Bangu Shopping"
+  ],
+  "createdAt": "2026-08-05"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "rz-jac-301",
+  "code": "RZ-JAC301",
+  "title": "Apartamento 2 Quartos em Jacarepaguá - Freguesia / Pechincha",
+  "type": "apartamento",
+  "category": "pronto_mcmv",
+  "price": 289000,
+  "condoFee": 380,
+  "iptuAnnual": 510,
+  "neighborhood": "Jacarepaguá (Pechincha)",
+  "address": "Estrada do Tindiba, 900",
+  "city": "Rio de Janeiro",
+  "state": "RJ",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "suites": 1,
+  "parkingSpaces": 1,
+  "areaSqM": 58,
+  "featured": true,
+  "featuredBadge": "Pronto p/ Morar",
+  "isMcmvEligible": true,
+  "downPaymentMin": 20000,
+  "description": "Apartamento em condomínio arborizado no Pechincha, Jacarepaguá. Documentação ok para financiamento.",
+  "images": [
+    "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80"
+  ],
+  "features": [
+    "2 Quartos com Suíte e Varanda",
+    "Documentação Ok p/ Financiamento e FGTS"
+  ],
+  "createdAt": "2026-08-03"
+}
