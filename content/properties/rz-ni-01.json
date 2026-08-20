@@ -1,0 +1,32 @@
+{
+  "isMcmvEligible": false,
+  "areaSqM": 35,
+  "parkingSpaces": 1,
+  "bathrooms": 1,
+  "price": 230,
+  "city": "Nova Iguaçu",
+  "code": "RZ - NI - 01",
+  "featured": true,
+  "neighborhood": "CENTRO",
+  "state": "RJ",
+  "address": "RUA OTAVIO TARQUINO",
+  "bedrooms": 2,
+  "title": "APARTAMENTO COM 2 QUARTOS, VARANDA E SUÍTE",
+  "images": [
+    "/uploads/01_live_academia.png",
+    "/uploads/02_live_fachada.png",
+    "/uploads/02_live_mercadinho.png",
+    "/uploads/04_live_lavanderia.png",
+    "/uploads/01_live_academia.png",
+    "/uploads/04_live_lavanderia.png"
+  ],
+  "type": "apartamento",
+  "suites": 1,
+  "id": "RZ - NI - 01",
+  "createdAt": "2026-08-20",
+  "description": "Imagine viver em um lugar onde tudo que você precisa está ao seu alcance.\nA 200 metros da Dutra, a 2 minutos da via Light, a 3 minutos do centro de Nova Iguaçu, a 4 minutos da Faculdade Estácio de Sá, a poucos minutos do Top shopping e do shopping da pedreira, mercados, escolas e hospitais — você está conectado ao melhor de Nova Iguaçu sem abrir mão da tranquilidade.\n\nAgora imagine chegar em casa e aproveitar uma churrasqueira na sua sacada, treinar na academia completa, fazer compras sem sair do condomínio no mercado interno, relaxar na piscina e ainda contar com o conforto de um condomínio moderno.\n\nEsse não é apenas um empreendimento.\nÉ o seu novo estilo de vida.\nMais praticidade, mais lazer, mais valorização.\nÉ aqui que sua nova história começa.",
+  "features": [
+    "Condomínio com lazer de clube e varanda com preparação para varanda gourmet"
+  ],
+  "category": "lancamento_mcmv"
+}
