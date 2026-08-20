@@ -14,11 +14,10 @@
   "title": "APARTAMENTO COM 2 QUARTOS, VARANDA E SUÍTE",
   "images": [
     "/uploads/01_live_academia.png",
-    "/uploads/02_live_fachada.png",
     "/uploads/02_live_mercadinho.png",
     "/uploads/04_live_lavanderia.png",
-    "/uploads/01_live_academia.png",
-    "/uploads/04_live_lavanderia.png"
+    "/uploads/02_live_fachada.png",
+    "/uploads/09_live_piscina.png"
   ],
   "type": "apartamento",
   "suites": 1,
