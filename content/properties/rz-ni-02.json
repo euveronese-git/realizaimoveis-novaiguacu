@@ -1,0 +1,31 @@
+{
+  "isMcmvEligible": false,
+  "areaSqM": 35,
+  "parkingSpaces": 1,
+  "bathrooms": 1,
+  "price": 220,
+  "city": "Nova Iguaçu",
+  "code": "THE ONE",
+  "featured": true,
+  "neighborhood": "LUZ",
+  "state": "RJ",
+  "address": "AV. ABILIO AUGUSTO TAVORÁ 2254",
+  "bedrooms": 2,
+  "title": "LANÇAMENTO EM NOVA IGUAÇU - APARTAMENTO COM 2 QUARTOS",
+  "images": [
+    "/uploads/fachada-com-unig.jpg",
+    "/uploads/fachada-com-loja-completa.jpg",
+    "/uploads/06_the-one_coluna-02-10_varanda.png",
+    "/uploads/the-one_garden_coluna-01-11.png",
+    "/uploads/the-one_garden_coluna-05.png"
+  ],
+  "type": "apartamento",
+  "suites": 1,
+  "id": "RZ - NI - 02",
+  "createdAt": "2026-08-21",
+  "description": "O THE ONE, Não é só o primeiro imóvel, é \"O\" imóvel!\n\n\nSair da casa dos pais, da sogra, finalmente ter privacidade, ou então se livrar de vez do aluguel, é um sonho de muita gente...mas esse apê aqui vai muito além disso e vai superar suas expectativas!\n\n\nImagine viver em um lugar onde tudo que você precisa está ao seu alcance.\nA poucos minutos da Dutra, da UNIG, shopping de Nova Iguaçu, de mercados, escolas e hospitais — você está conectado ao melhor de Nova Iguaçu sem abrir mão da tranquilidade.\n\n\nAgora imagine chegar em casa e aproveitar uma churrasqueira na sua sacada, treinar na academia completa, fazer compras sem sair do condomínio no mercado interno, relaxar na piscina e ainda contar com unidades garden que trazem a sensação de morar em uma casa com o conforto de um condomínio moderno.\n\n\nEsse não é apenas um empreendimento.\nÉ o seu novo estilo de vida.\nMais praticidade, mais lazer, mais valorização.\nÉ aqui que sua nova história começa.\n\n\n\n",
+  "features": [
+    "Tudo isso, com um lazer de club, com uma vista incrível, pois todo lazer estará no hoff top "
+  ],
+  "category": "lancamento_mcmv"
+}
