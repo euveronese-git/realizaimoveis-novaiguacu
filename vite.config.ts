@@ -6,6 +6,7 @@ import {defineConfig, type Plugin} from 'vite';
 
 function propertiesJsonPlugin(): Plugin {
   const contentDir = path.resolve(__dirname, 'content/properties');
+  const publicFile = path.resolve(__dirname, 'public/data/properties.json');
 
   function buildPayload(): string {
     const files = fs.readdirSync(contentDir).filter((file) => file.endsWith('.json'));
@@ -15,8 +16,16 @@ function propertiesJsonPlugin(): Plugin {
     return JSON.stringify(properties);
   }
 
+  function writePublicFile() {
+    fs.mkdirSync(path.dirname(publicFile), { recursive: true });
+    fs.writeFileSync(publicFile, buildPayload());
+  }
+
   return {
     name: 'properties-json',
+    buildStart() {
+      writePublicFile();
+    },
     configureServer(server) {
       server.middlewares.use((req, res, next) => {
         const url = req.url?.split('?')[0];

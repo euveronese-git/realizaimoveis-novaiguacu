@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Property, PropertyFilterState } from './types';
-import { INITIAL_PROPERTIES, normalizeProperties } from './data/properties';
+import { INITIAL_PROPERTIES } from './data/properties';
+import { loadLiveProperties } from './data/fetchLiveProperties';
 import { Header } from './components/Header';
 import { Hero } from './components/Hero';
 import { BrandHighlightStrip } from './components/BrandHighlightStrip';
@@ -58,18 +59,12 @@ export default function App() {
   useEffect(() => {
     let cancelled = false;
 
-    fetch('/data/properties.json', { cache: 'no-store' })
-      .then((res) => {
-        if (!res.ok) throw new Error(`properties.json ${res.status}`);
-        return res.json();
-      })
-      .then((data) => {
-        if (cancelled) return;
-        const next = normalizeProperties(data);
-        if (next.length > 0) setProperties(next);
+    loadLiveProperties()
+      .then((next) => {
+        if (!cancelled && next.length > 0) setProperties(next);
       })
       .catch(() => {
-        // Keep bundled listings if the runtime file is missing.
+        // Keep bundled listings if GitHub and the static JSON are unavailable.
       });
 
     return () => {
