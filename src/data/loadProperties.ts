@@ -65,6 +65,9 @@ export function normalizeProperty(raw: unknown): Property | null {
     createdAt: String(p.createdAt ?? ''),
   };
 
+  const videos = toStringList(p.videos, 'video');
+  if (videos.length > 0) property.videos = videos;
+
   const condoFee = toOptionalNumber(p.condoFee);
   if (condoFee !== undefined) property.condoFee = condoFee;
 

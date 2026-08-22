@@ -39,6 +39,7 @@ export interface Property {
   featuredBadge?: string;
   description: string;
   images: string[];
+  videos?: string[];
   features: string[];
   createdAt: string;
   isMcmvEligible?: boolean;

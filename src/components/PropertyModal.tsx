@@ -1,6 +1,7 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Property, CATEGORY_LABELS } from '../types';
 import { getPropertyWhatsAppUrl, formatCurrencyBRL } from '../utils/whatsapp';
+import { isVideoUrl, videoPosterUrl } from '../utils/media';
 import { 
   X, 
   BedDouble, 
@@ -17,7 +18,8 @@ import {
   Share2,
   Check,
   ShieldCheck,
-  Sparkles
+  Sparkles,
+  Play
 } from 'lucide-react';
 
 interface PropertyModalProps {
@@ -35,12 +37,20 @@ export const PropertyModal: React.FC<PropertyModalProps> = ({
   onToggleFavorite,
   onOpenMortgage
 }) => {
-  if (!property) return null;
-
   const [activeImageIndex, setActiveImageIndex] = useState(0);
   const [copiedLink, setCopiedLink] = useState(false);
   const [visitForm, setVisitForm] = useState({ name: '', phone: '', date: '', notes: '' });
   const [visitSubmitted, setVisitSubmitted] = useState(false);
+
+  useEffect(() => {
+    setActiveImageIndex(0);
+  }, [property?.id]);
+
+  if (!property) return null;
+
+  const gallery = [...property.images, ...(property.videos ?? [])];
+  const activeMedia = gallery[Math.min(activeImageIndex, Math.max(gallery.length - 1, 0))] || '';
+  const activeIsVideo = isVideoUrl(activeMedia);
 
   const whatsappUrl = getPropertyWhatsAppUrl(property.title, property.code, property.price, property.neighborhood);
 
@@ -112,31 +122,59 @@ export const PropertyModal: React.FC<PropertyModalProps> = ({
           {/* Gallery View */}
           <div className="space-y-3">
             <div className="relative aspect-[16/9] md:aspect-[21/9] bg-[#0E3D3D] rounded-3xl overflow-hidden shadow-md">
-              <img
-                src={property.images[activeImageIndex]}
-                alt={property.title}
-                className="w-full h-full object-cover transition-all duration-500"
-                referrerPolicy="no-referrer"
-              />
+              {activeIsVideo ? (
+                <video
+                  key={activeMedia}
+                  src={activeMedia}
+                  controls
+                  playsInline
+                  poster={videoPosterUrl(activeMedia)}
+                  className="w-full h-full object-cover"
+                >
+                  Seu navegador não reproduz este vídeo.
+                </video>
+              ) : (
+                <img
+                  src={activeMedia}
+                  alt={property.title}
+                  className="w-full h-full object-cover transition-all duration-500"
+                  referrerPolicy="no-referrer"
+                />
+              )}
               <div className="absolute bottom-3 right-3 bg-black/70 text-amber-100 text-xs px-3.5 py-1 rounded-full backdrop-blur-md">
-                Foto {activeImageIndex + 1} de {property.images.length}
+                {activeIsVideo ? 'Vídeo' : 'Foto'} {gallery.length ? activeImageIndex + 1 : 0} de {gallery.length}
               </div>
             </div>
 
             {/* Thumbnails Row */}
-            {property.images.length > 1 && (
+            {gallery.length > 1 && (
               <div className="flex gap-2 overflow-x-auto pb-2 scrollbar-thin">
-                {property.images.map((img, idx) => (
-                  <button
-                    key={idx}
-                    onClick={() => setActiveImageIndex(idx)}
-                    className={`relative w-20 sm:w-28 aspect-[16/10] rounded-xl overflow-hidden shrink-0 transition-all border-2 ${
-                      activeImageIndex === idx ? 'border-[#3ECF47] scale-105 shadow-sm' : 'border-transparent opacity-60 hover:opacity-100'
-                    }`}
-                  >
-                    <img src={img} alt={`Thumb ${idx}`} className="w-full h-full object-cover" referrerPolicy="no-referrer" />
-                  </button>
-                ))}
+                {gallery.map((item, idx) => {
+                  const itemIsVideo = isVideoUrl(item);
+                  const thumbSrc = itemIsVideo ? videoPosterUrl(item) || item : item;
+                  return (
+                    <button
+                      key={`${item}-${idx}`}
+                      onClick={() => setActiveImageIndex(idx)}
+                      className={`relative w-20 sm:w-28 aspect-[16/10] rounded-xl overflow-hidden shrink-0 transition-all border-2 ${
+                        activeImageIndex === idx ? 'border-[#3ECF47] scale-105 shadow-sm' : 'border-transparent opacity-60 hover:opacity-100'
+                      }`}
+                    >
+                      {itemIsVideo && !videoPosterUrl(item) ? (
+                        <span className="w-full h-full bg-[#0E3D3D] flex items-center justify-center">
+                          <Play className="w-6 h-6 text-white fill-current" />
+                        </span>
+                      ) : (
+                        <img src={thumbSrc} alt={`Thumb ${idx}`} className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+                      )}
+                      {itemIsVideo && (
+                        <span className="absolute inset-0 flex items-center justify-center bg-black/30">
+                          <Play className="w-5 h-5 text-white fill-current" />
+                        </span>
+                      )}
+                    </button>
+                  );
+                })}
               </div>
             )}
           </div>

@@ -4,11 +4,23 @@ backend:
 
 local_backend: true
 
-site_url: https://realizaimobiliaria.netlify.app
-display_url: https://realizaimobiliaria.netlify.app
+site_url: https://realizaimoveis-novaiguacu.netlify.app
+display_url: https://realizaimoveis-novaiguacu.netlify.app
 
 media_folder: public/uploads
 public_folder: /uploads
+
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: qodjrluz
+    api_key: "823687155364381"
+    folder: realiza/imoveis
+    default_transformations:
+      - - fetch_format: auto
+          quality: auto
+          crop: limit
+          width: 1600
 
 locale: pt
 
@@ -89,11 +101,22 @@ collections:
         widget: list
         allow_add: true
         min: 1
-        hint: "Selecione a mídia ou cole a URL da foto (Unsplash, etc.)"
+        hint: "Abra o Cloudinary e escolha as fotos. Elas aparecem na galeria do anúncio."
         field:
           label: Foto
           name: image
           widget: image
+          choose_url: true
+      - label: Vídeos
+        name: videos
+        widget: list
+        required: false
+        allow_add: true
+        hint: "O vídeo toca dentro do anúncio. Prefira arquivo curto (até 1–2 min), não 4K longo."
+        field:
+          label: Vídeo
+          name: video
+          widget: file
           choose_url: true
       - label: Características
         name: features
