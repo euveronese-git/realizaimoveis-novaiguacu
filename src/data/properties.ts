@@ -1,6 +1,6 @@
-import { INITIAL_PROPERTIES } from './loadProperties';
+import { INITIAL_PROPERTIES, normalizeProperties } from './loadProperties';
 
-export { INITIAL_PROPERTIES };
+export { INITIAL_PROPERTIES, normalizeProperties };
 
 export const NEIGHBORHOODS_RIO = [
   'Todos os Bairros',

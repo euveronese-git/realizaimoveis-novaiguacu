@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Property, PropertyFilterState } from './types';
-import { INITIAL_PROPERTIES } from './data/properties';
+import { INITIAL_PROPERTIES, normalizeProperties } from './data/properties';
 import { Header } from './components/Header';
 import { Hero } from './components/Hero';
 import { BrandHighlightStrip } from './components/BrandHighlightStrip';
@@ -28,7 +28,7 @@ const DEFAULT_FILTERS: PropertyFilterState = {
 };
 
 export default function App() {
-  const [properties] = useState<Property[]>(INITIAL_PROPERTIES);
+  const [properties, setProperties] = useState<Property[]>(INITIAL_PROPERTIES);
   const [filters, setFilters] = useState<PropertyFilterState>(DEFAULT_FILTERS);
   
   // Favorites persisted state
@@ -54,6 +54,28 @@ export default function App() {
       console.error('Error saving favorites:', e);
     }
   }, [favorites]);
+
+  useEffect(() => {
+    let cancelled = false;
+
+    fetch('/data/properties.json', { cache: 'no-store' })
+      .then((res) => {
+        if (!res.ok) throw new Error(`properties.json ${res.status}`);
+        return res.json();
+      })
+      .then((data) => {
+        if (cancelled) return;
+        const next = normalizeProperties(data);
+        if (next.length > 0) setProperties(next);
+      })
+      .catch(() => {
+        // Keep bundled listings if the runtime file is missing.
+      });
+
+    return () => {
+      cancelled = true;
+    };
+  }, []);
 
   const handleToggleFavorite = (id: string) => {
     setFavorites((prev) => 
