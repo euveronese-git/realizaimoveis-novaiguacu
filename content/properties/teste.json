@@ -1,0 +1,31 @@
+{
+  "isMcmvEligible": true,
+  "areaSqM": 67,
+  "parkingSpaces": 1,
+  "bathrooms": 1,
+  "iptuAnnual": 399,
+  "price": 180000,
+  "city": "Nova Iguaçu",
+  "code": "teste",
+  "featured": true,
+  "downPaymentMin": 20000,
+  "neighborhood": "Nova Iguaçu ",
+  "state": "RJ",
+  "address": "nova iguaçu",
+  "featuredBadge": "Promoção",
+  "bedrooms": 2,
+  "title": "Nova iguaçu apartamento 2 quartos ",
+  "images": [
+    "/uploads/06_the-one_coluna-02-10_varanda.png"
+  ],
+  "condoFee": 300,
+  "type": "apartamento",
+  "suites": 0,
+  "id": "teste",
+  "createdAt": "2026-08-22",
+  "description": "breve descrição",
+  "features": [
+    "area de lazer"
+  ],
+  "category": "pronto_mcmv"
+}
