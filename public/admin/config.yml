@@ -98,26 +98,23 @@ collections:
       - { label: Descrição, name: description, widget: text }
       - label: Fotos
         name: images
-        widget: list
-        allow_add: true
-        min: 1
-        hint: "Abra o Cloudinary e escolha as fotos. Elas aparecem na galeria do anúncio."
-        field:
-          label: Foto
-          name: image
-          widget: image
-          choose_url: true
+        widget: image
+        choose_url: true
+        hint: "Abra o Cloudinary e selecione várias fotos de uma vez."
+        media_library:
+          config:
+            multiple: true
+            max_files: 30
       - label: Vídeos
         name: videos
-        widget: list
+        widget: file
         required: false
-        allow_add: true
-        hint: "O vídeo toca dentro do anúncio. Prefira arquivo curto (até 1–2 min), não 4K longo."
-        field:
-          label: Vídeo
-          name: video
-          widget: file
-          choose_url: true
+        choose_url: true
+        hint: "Selecione um ou mais vídeos. Preferir até 1–2 min cada."
+        media_library:
+          config:
+            multiple: true
+            max_files: 10
       - label: Características
         name: features
         widget: list

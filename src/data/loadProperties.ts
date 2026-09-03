@@ -5,6 +5,9 @@ const modules = import.meta.glob('../../content/properties/*.json', {
 }) as Record<string, { default: unknown }>;
 
 function toStringList(value: unknown, objectKey: string): string[] {
+  if (typeof value === 'string' && value.trim()) {
+    return value.split(/,|\n/).map((s) => s.trim()).filter(Boolean);
+  }
   if (!Array.isArray(value)) return [];
   return value
     .map((item) => {
