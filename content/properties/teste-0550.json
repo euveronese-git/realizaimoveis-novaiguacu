@@ -1,0 +1,35 @@
+{
+  "isMcmvEligible": false,
+  "areaSqM": 67,
+  "parkingSpaces": 1,
+  "bathrooms": 1,
+  "iptuAnnual": 120,
+  "price": 1564654,
+  "city": "Nova Iguaçu",
+  "code": "teste-0505",
+  "featured": false,
+  "downPaymentMin": 20000,
+  "neighborhood": "Nova Iguaçu ",
+  "state": "RJ",
+  "address": "nova iguaçu",
+  "featuredBadge": "Promoção",
+  "bedrooms": 1,
+  "title": "Teste video e foto ",
+  "images": [
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788449717/a9dfc8f2-0853-4121-bafa-bf2c30bb082a.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788449691/a3b1b8a7-6152-497d-b270-3d636e99e574.jpg"
+  ],
+  "videos": [
+    "https://res.cloudinary.com/qodjrluz/video/upload/c_limit,f_auto,q_auto,w_1600/v1788450427/WhatsApp_Video_2026-06-04_at_08.37.50.mp4"
+  ],
+  "condoFee": 2133,
+  "type": "apartamento",
+  "suites": 1,
+  "id": "teste-0550",
+  "createdAt": "2026-09-03",
+  "description": "descricao teste",
+  "features": [
+    "teste"
+  ],
+  "category": "lancamento_mcmv"
+}
