@@ -121,7 +121,7 @@ export const PropertyModal: React.FC<PropertyModalProps> = ({
           
           {/* Gallery View */}
           <div className="space-y-3">
-            <div className="relative aspect-[16/9] bg-[#0E3D3D] rounded-3xl overflow-hidden shadow-md">
+            <div className="relative w-full bg-[#0E3D3D] rounded-3xl overflow-hidden shadow-md flex items-center justify-center min-h-[240px] max-h-[70vh]">
               {activeIsVideo ? (
                 <video
                   key={activeMedia}
@@ -129,7 +129,7 @@ export const PropertyModal: React.FC<PropertyModalProps> = ({
                   controls
                   playsInline
                   poster={videoPosterUrl(activeMedia)}
-                  className="w-full h-full object-cover"
+                  className="w-full max-h-[70vh] object-cover"
                 >
                   Seu navegador não reproduz este vídeo.
                 </video>
@@ -137,7 +137,7 @@ export const PropertyModal: React.FC<PropertyModalProps> = ({
                 <img
                   src={activeMedia}
                   alt={property.title}
-                  className="w-full h-full object-contain transition-all duration-500"
+                  className="max-w-full max-h-[70vh] w-auto h-auto object-contain"
                   referrerPolicy="no-referrer"
                 />
               )}
