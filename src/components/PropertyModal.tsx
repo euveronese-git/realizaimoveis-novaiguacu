@@ -121,7 +121,7 @@ export const PropertyModal: React.FC<PropertyModalProps> = ({
           
           {/* Gallery View */}
           <div className="space-y-3">
-            <div className="relative aspect-[16/9] md:aspect-[21/9] bg-[#0E3D3D] rounded-3xl overflow-hidden shadow-md">
+            <div className="relative aspect-[16/9] bg-[#0E3D3D] rounded-3xl overflow-hidden shadow-md">
               {activeIsVideo ? (
                 <video
                   key={activeMedia}
@@ -137,7 +137,7 @@ export const PropertyModal: React.FC<PropertyModalProps> = ({
                 <img
                   src={activeMedia}
                   alt={property.title}
-                  className="w-full h-full object-cover transition-all duration-500"
+                  className="w-full h-full object-contain transition-all duration-500"
                   referrerPolicy="no-referrer"
                 />
               )}

@@ -45,7 +45,7 @@ export const FavoritesDrawer: React.FC<FavoritesDrawerProps> = ({
                 <img
                   src={prop.images[0]}
                   alt={prop.title}
-                  className="w-24 h-24 object-cover rounded-xl shrink-0"
+                  className="w-24 h-24 object-contain rounded-xl shrink-0 bg-[#0E3D3D]"
                   referrerPolicy="no-referrer"
                 />
                 
