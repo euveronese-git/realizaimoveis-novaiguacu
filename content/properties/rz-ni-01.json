@@ -13,12 +13,24 @@
   "bedrooms": 2,
   "title": "APARTAMENTO COM 2 QUARTOS, VARANDA E SUÍTE - NOVA IGUAÇU",
   "images": [
-    "/uploads/the-one_garden_coluna-05.png"
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788530443/02_Live_Fachada.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788530441/01_Live_Fachada.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788530442/02_Live_Mercadinho.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788530867/04_Live_Lavanderia.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788531016/10_Live_Piscina.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788530430/01_Live_Academia.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788530436/01_Live_Coluna_03_04_05_06.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788530440/02_Live_Coluna_03_04_05_06.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788530788/04_Live_Coluna_03_04_05_06.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788530796/03_Live_Sal%C3%A3o_de_Festas.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788530865/05_Live_Coluna_03_04_05_06_op%C3%A7%C3%A3o_office.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788530868/06_Live_Coluna_03_04_05_06.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788530881/06_Live_Espa%C3%A7o_Kids.png"
   ],
   "type": "apartamento",
   "suites": 1,
-  "id": "rz-ni-01",
-  "createdAt": "2026-08-20",
+  "id": "RZ - NI - 01",
+  "createdAt": "2026-09-04",
   "description": "Imagine viver em um lugar onde tudo que você precisa está ao seu alcance.\nA 200 metros da Dutra, a 2 minutos da via Light, a 3 minutos do centro de Nova Iguaçu, a 4 minutos da Faculdade Estácio de Sá, a poucos minutos do Top shopping e do shopping da pedreira, mercados, escolas e hospitais — você está conectado ao melhor de Nova Iguaçu sem abrir mão da tranquilidade.\n\nAgora imagine chegar em casa e aproveitar uma churrasqueira na sua sacada, treinar na academia completa, fazer compras sem sair do condomínio no mercado interno, relaxar na piscina e ainda contar com o conforto de um condomínio moderno.\n\nEsse não é apenas um empreendimento.\nÉ o seu novo estilo de vida.\nMais praticidade, mais lazer, mais valorização.\nÉ aqui que sua nova história começa.",
   "features": [
     "Condomínio com lazer de clube e varanda com preparação para varanda gourmet"
