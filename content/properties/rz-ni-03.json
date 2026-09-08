@@ -1,0 +1,33 @@
+{
+  "isMcmvEligible": false,
+  "areaSqM": 35,
+  "parkingSpaces": 1,
+  "bathrooms": 1,
+  "price": 197,
+  "city": "Nova Iguaçu",
+  "code": "RZ - NI - JAZZ",
+  "featured": true,
+  "neighborhood": "BAIRRO DA LUZ",
+  "state": "RJ",
+  "address": "AVENIDA LUZ, S/N°",
+  "bedrooms": 2,
+  "title": "APARTAMENTOS COM 2 QUARTOS, SUÍTES, VARANDA E GARDEN EM NOVA IGUAÇU",
+  "images": [
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788874793/jazz-exemplo.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788553918/13_Jazz_Piscina_entardecer.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788551030/10_Jazz_Mini_market.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788551017/08_Jazz_Lavanderia.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788551017/11_Jazz_Espa%C3%A7o_pet.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788550734/05_Jazz_Sal%C3%A3o_de_jogos.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788550731/04_Jazz_Espa%C3%A7o_kids.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788549345/03_Jazz_Sal%C3%A3o_de_festas.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788549336/01_Jazz_Academia.png"
+  ],
+  "type": "apartamento",
+  "suites": 1,
+  "id": "RZ - NI - 03",
+  "createdAt": "2026-09-08",
+  "description": "CHEGOU A SUA VEZ DE DITAR O SEU RITIMO DE VIDA!\nVIVA ONDE A TRANQUILIDADE, VALORIZAÇÃO E LOCALIZAÇÃO ANDAM JUNTAS.\n\nConheça o JAZZ mais um lançamento da construtora OMEGA, a 200 metros do shopping de Nova Iguaçu, próximo de tudo que você e sua família precisam, O JAZZ não é apenas uma oportunidade para moradia, mas também para quem quer investir, com plantas de Studio, 1 e 2 quartos com varanda e suítes, e ainda com opções Garden, o JAZZ tem também um lazer ainda não visto na região.\nEsse é o ritmo certo para você e sua família. ",
+  "features": [],
+  "category": "lancamento_mcmv"
+}
