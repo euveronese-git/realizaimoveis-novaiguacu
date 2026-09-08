@@ -1,0 +1,40 @@
+{
+  "isMcmvEligible": false,
+  "areaSqM": 35,
+  "parkingSpaces": 1,
+  "bathrooms": 1,
+  "price": 280000,
+  "city": "Nova Iguaçu",
+  "code": "RZ - NI - ELEVATTO NOVA IGUAÇU",
+  "featured": true,
+  "downPaymentMin": "",
+  "neighborhood": "CENTRO",
+  "state": "RJ",
+  "address": "RUA OTAVIO TARQUINO",
+  "bedrooms": 2,
+  "title": "ELEVATO NOVA IGUAÇU - LANÇAMENTO MCMV",
+  "images": [
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788889378/FACHADA.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788889384/FACHADA_1.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788889724/SALA_-_COZINHA_1.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788889716/QUARTO_SOLTEIRO.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788889716/QUARTO_CASAL.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788889713/QUARTO_SOLTEIRO_1.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788889445/BANHEIRO.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788889874/VARANDA.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788889874/VARANDA_1.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788889872/VARANDA_2.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788889674/PISCINA.png",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788889635/Fitness.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1788889783/QUADRA_DE_AREIA.png"
+  ],
+  "type": "apartamento",
+  "suites": 0,
+  "id": "RZ - NI - 04",
+  "createdAt": "2026-09-08",
+  "description": "ELEVATO NOVA IGUAÇU — VIVA PERTO DE TUDO.\nSeu novo lar no coração de Nova Iguaçu, torres com elevador, 2 quartos, com e sem varanda, lazer completo e uma localização que coloca tudo ao seu alcance!\nA 2 minutos da via Light, 4 minutos da estação de trem, 3 minutos do calçadão.\nNão deixe essa oportunidade passar. Venha conhecer o Elevato Nova Iguaçu e descubra seu próximo endereço.",
+  "features": [
+    "Portaria 24 horas"
+  ],
+  "category": "lancamento_mcmv"
+}
