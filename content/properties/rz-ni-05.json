@@ -1,0 +1,34 @@
+{
+  "isMcmvEligible": false,
+  "areaSqM": 98,
+  "parkingSpaces": 1,
+  "bathrooms": 1,
+  "price": 245000,
+  "city": "Nova Iguaçu",
+  "code": "RZ - NI - RESIDENCIAL VIDA",
+  "featured": true,
+  "neighborhood": "JARDIM ALVORADA",
+  "state": "RJ",
+  "address": "AVENIDA ABILIO AUGUSTO TAVORA, 735",
+  "bedrooms": 3,
+  "title": "CASAS COM 2 E 3 QUARTOS EM NOVA IGUAÇU",
+  "images": [
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789067066/1.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789067101/%C3%81rea_gourmet_.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789067123/Solarium_.jpg"
+  ],
+  "videos": [
+    "https://res.cloudinary.com/qodjrluz/video/upload/c_limit,f_auto,q_auto,w_1600/v1789066458/WhatsApp_Video_2025-10-14_at_11.31.27.mp4",
+    "https://res.cloudinary.com/qodjrluz/video/upload/c_limit,f_auto,q_auto,w_1600/v1789066424/WhatsApp_Video_2025-10-14_at_11.31.38.mp4"
+  ],
+  "condoFee": 0,
+  "type": "casa",
+  "suites": 1,
+  "id": "RZ - NI - 05",
+  "createdAt": "2026-09-10",
+  "description": "O RESIDENCIAL VIDA É!\nUm exclusivo condomínio\nfechado onde lazer e natureza se\nentrelaçam para criar o lar dos\nseus sonhos. Projetado para quem\nvaloriza privacidade, segurança e\nqualidade de vida, nosso\nresidencial é o cenário perfeito\npara criar memórias inesquecíveis, em uma localização única, cercada de tudo que você e sua família precisam, no dia a dia, shopping, mercados, escolas, farmácias, hospital e o melhor 14 linhas de ônibus, que ligam o município, não apenas com a baixada, mas com zona norte, oeste e centro do Rio.\nE ainda consta com um lazer diferenciado.",
+  "features": [
+    "Unidades com 2 e 3 quartos, com e sem suítes."
+  ],
+  "category": "lancamento_mcmv"
+}
