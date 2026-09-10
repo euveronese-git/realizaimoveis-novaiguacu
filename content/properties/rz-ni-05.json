@@ -15,12 +15,17 @@
   "images": [
     "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789067066/1.jpg",
     "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789067101/%C3%81rea_gourmet_.jpg",
-    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789067123/Solarium_.jpg"
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789067123/Solarium_.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789067101/%C3%81rea_gourmet_.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789070312/Sal%C3%A3o_de_festas_.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789070296/Pra%C3%A7a_.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789070296/Portaria_.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789070278/Condom%C3%ADnio_.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789070208/7.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789070203/5.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789070195/2.jpg"
   ],
-  "videos": [
-    "https://res.cloudinary.com/qodjrluz/video/upload/c_limit,f_auto,q_auto,w_1600/v1789066458/WhatsApp_Video_2025-10-14_at_11.31.27.mp4",
-    "https://res.cloudinary.com/qodjrluz/video/upload/c_limit,f_auto,q_auto,w_1600/v1789066424/WhatsApp_Video_2025-10-14_at_11.31.38.mp4"
-  ],
+  "videos": "",
   "condoFee": 0,
   "type": "casa",
   "suites": 1,
