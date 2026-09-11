@@ -1,0 +1,40 @@
+{
+  "isMcmvEligible": false,
+  "areaSqM": 96,
+  "parkingSpaces": 1,
+  "bathrooms": 1,
+  "price": 220000,
+  "city": "QUEIMADOS",
+  "code": "RZ - QM - CASAS FANCHEM",
+  "featured": true,
+  "neighborhood": "FANCHEM",
+  "state": "RJ",
+  "address": "RUA ANTONIO AUGUSTO TORRES",
+  "bedrooms": 2,
+  "title": "CASAS LINEARES COM QUINTAL",
+  "images": [
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789157947/90754adb-f161-47ea-9b28-9a745271ab7c.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789157974/f7f03e5a-e2b4-4160-ac71-780f32c6c24b.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789157902/5028a4e9-49ce-4b12-95e5-6e4c9009cf84.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789157901/0929b70f-cb6e-4e6f-a114-3b8059392642.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789157894/309c6abc-812e-477f-bbbb-dcbc4e7df137.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789157893/00135e4e-2ced-4666-9caf-8e0d9d7ff44c.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789157874/75e9bef0-70b7-439d-a753-369aa36e3f44.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789157867/74cb4e7e-c32e-4db6-92ef-919d3d1a3086.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789157864/52ac1670-f775-4b8d-9803-c0344e9cac5f.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789157863/38e7a09a-1225-4ce4-8898-3d2a4b71c797.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789157856/26a1af7b-99c8-4561-83dc-5c3e4c9691c1.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789157855/23fd285c-a7a7-4f8c-8fae-dc9e234de8cb.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789157813/6eb1224d-bd65-4bed-b1fb-ba9bb911107d.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789157804/4e531cbe-44c9-479b-affc-458ef3791b74.jpg"
+  ],
+  "type": "casa",
+  "suites": 0,
+  "id": "RZ - QM - 07",
+  "createdAt": "2026-09-11",
+  "description": "Casa linear em Queimados\nTipologia:\ndois quartos, sala, cozinha, banheiro, área de serviço, vaga de garagem, varanda / quintal \nValor 220.000 \nainda não tem avaliação\nRGI grátis \nCliente paga ITBI\n",
+  "features": [
+    "Garagem, varanda, quintal"
+  ],
+  "category": "pronto_mcmv"
+}
