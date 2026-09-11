@@ -1,0 +1,33 @@
+{
+  "isMcmvEligible": false,
+  "areaSqM": 47,
+  "parkingSpaces": 1,
+  "bathrooms": 1,
+  "price": 200000,
+  "city": "DUQUE DE CAXIAS",
+  "code": "RZ - DC - CENTRAL PARQUE RIVIERA",
+  "featured": true,
+  "neighborhood": "JARDIM GRAMACHO",
+  "state": "RJ",
+  "address": "RUA LORETO, 50",
+  "bedrooms": 2,
+  "title": "APARTAMENTO EM DUQUE DE CAXIAS PRONTO PARA MORAR",
+  "images": [
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789161566/77bdda95-0e0c-4fba-9127-e997eb202f07.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789161572/842c6a3e-ac31-4bab-ac43-2fe13fe0d69a.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789161562/4e6a50dc-64bd-4e1e-9c88-015bb901cc95.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789161119/sala_2.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789161053/quarto_2.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789161048/quarto_1.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789161043/IMG_20241119_182129.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789161038/entrada.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789161030/cozinha_3.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789161029/cozinha_2.jpg"
+  ],
+  "type": "apartamento",
+  "suites": 0,
+  "id": "RZ - DC - 09",
+  "createdAt": "2026-09-11",
+  "description": "Imagine viver em um lugar onde tudo que você precisa está ao seu alcance.\nA poucos minutos da Rod. Washington Luiz, do Feirão Azul, de mercados, escolas e hospitais — você está conectado ao melhor de Duque de Caxias sem abrir mão da tranquilidade.\n\nAgora imagine chegar em casa e aproveitar uma churrasqueira, treinar na academia completa, fazer compras sem sair do condomínio no mercado interno, relaxar na piscina e ainda contar com o conforto de um condomínio moderno.\n\nEsse não é apenas um empreendimento.\nÉ o seu novo estilo de vida.\nMais praticidade, mais lazer, mais valorização.\nÉ aqui que sua nova história começa.\n",
+  "category": "pronto_mcmv"
+}
