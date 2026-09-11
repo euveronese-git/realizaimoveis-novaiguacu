@@ -1,0 +1,40 @@
+{
+  "isMcmvEligible": false,
+  "areaSqM": 42,
+  "parkingSpaces": 1,
+  "bathrooms": 1,
+  "price": 250000,
+  "city": "Nova Iguaçu",
+  "code": "RZ - NI - UNIQ",
+  "featured": true,
+  "neighborhood": "BAIRRO DA LUZ",
+  "state": "RJ",
+  "address": "RUA ELPIDIO MADEIRA, 146",
+  "bedrooms": 2,
+  "title": "APARTAMENTOS COM 2 DORMITÓRIOS E NOVA IGUAÇU",
+  "images": [
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789148241/d45540ca-3955-4a41-8680-e1a841d4d611.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789148277/a9076ab5-1598-4b4a-80b4-3b883bb2c065.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789148278/aaa61eb7-984e-48de-bcbd-57dc2d2b781f.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789148315/01e9fb40-4205-4c60-b106-81363b575d9b.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789148317/8b557ce1-8fcb-47f2-adf5-4a63ca8d465f.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789148316/4d639c11-df95-4e9e-83ff-b169a2ea45db.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789148316/1f746b42-1f65-4f98-8fef-cdea7f154830.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789148341/017d8a4a-6bbe-4cd0-8f06-bb699702631c.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789148373/19f1e0e3-6694-4810-a0f9-4c2dac9dbda2.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789148374/43de86d1-5a84-4aaf-bca8-be84f9cb54fe.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789148379/61b0b5a8-b240-48bb-99fc-f94013cd9f77.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789148408/83783cb6-3b20-4f73-977d-bf75c7033bcb.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789148409/93991b9a-2e9d-48a3-8bad-3d26404a5f24.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789148409/880196d1-2b4c-4d6e-b152-8c6edbec39e5.jpg"
+  ],
+  "type": "apartamento",
+  "suites": 1,
+  "id": "RZ - NI - 06",
+  "createdAt": "2026-09-11",
+  "description": "VOCÊ É ÚNICO,\nSEU LAR TAMBÉM\nPRECISA SER.\n\nExistem caminhos que já no primeiro\nolhar parecem feitos para você.\nQuando localização, estilo de vida,\nestrutura e o momento caminham\njuntos, tudo faz sentido. Morar bem\ndeixa de ser um desejo distante para\nse transformar em escolha possível.\nCada benefício vem para somar:\na proximidade com a UNIG,\no entorno valorizado, o lazer\nde clube que transforma os dias.\n\nO Uniq Condomínio-Clube é o\ndestino para quem dá o próximo\npasso buscando segurança e\nevolução, quem tem visão de futuro\ne reconhece o valor de ter\nencontrado o endereço certo.\nBem-vindo ao ponto onde tudo\nconverge, onde o sonho de um futuro\nmelhor ganha forma e torna-se\npossível. Bem-vindo ao seu\nnovo jeito de viver!\n\nMedidas perfeitas para diferentes\nperfis, plantas de 27,94 á 71,19 M². O Uniq oferece uma divisão\nde espaços bem-pensada para\nproporcionar uma rotina tranquila,\nfuncional e confortável em todos\nos cômodos. \n\nO UNIQ é um ponto fora da curva.",
+  "features": [
+    "Plantas com e sem suítes, varanda e opções Garden, além do lazer de clube.."
+  ],
+  "category": "lancamento_mcmv"
+}
