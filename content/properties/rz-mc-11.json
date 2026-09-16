@@ -1,0 +1,28 @@
+{
+  "isMcmvEligible": false,
+  "areaSqM": 52,
+  "parkingSpaces": 2,
+  "bathrooms": 1,
+  "price": 267000,
+  "city": "MARCICÁ",
+  "code": "RZ - MC - NOVA MARICÁ",
+  "featured": true,
+  "neighborhood": "INOÃ",
+  "state": "RJ",
+  "address": "AVENIDA CRUZEIRO",
+  "bedrooms": 2,
+  "title": "CASAS INDEPENDENTES COM 2 QUARTOS E SUÍTE EM MARICÁ",
+  "images": [
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789588065/f6c683b3-30cb-41c6-8677-22f64ceadb44.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789587911/105098ca-7f69-4732-8fda-980b49dccf07.jpg"
+  ],
+  "videos": [
+    "https://res.cloudinary.com/qodjrluz/video/upload/c_limit,f_auto,q_auto,w_1600/v1789587831/WhatsApp_Video_2026-09-03_at_16.23.52_2.mp4"
+  ],
+  "type": "casa",
+  "suites": 1,
+  "id": "RZ - MC - 11",
+  "createdAt": "2026-09-16",
+  "description": "More na cidade que mais cresce, por um valor que não tem preço!\nMude de vida, de endereço e comece uma nova historia, o condomínio Nova Maricá esta transformando a vida de muitas pessoas, chegou a sua vez, casas linear com 2 quartos, sendo um suíte, 2 vagas em um condomínio com lazer de clube em Maricá próximo de tudo, e o melhor com os benefícios do programa MCMV .\n",
+  "category": "lancamento_mcmv"
+}
