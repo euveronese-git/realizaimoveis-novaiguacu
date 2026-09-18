@@ -1,0 +1,35 @@
+{
+  "isMcmvEligible": false,
+  "areaSqM": 71,
+  "parkingSpaces": 1,
+  "bathrooms": 1,
+  "price": 450000,
+  "city": "Nova Iguaçu",
+  "code": "RZ - NI - GOLDEN CLUB",
+  "featured": true,
+  "neighborhood": "CENTRO",
+  "state": "RJ",
+  "address": "RUA DR° BARROS JUNIOR, 1199",
+  "bedrooms": 3,
+  "title": "APARTAMENTO COM 3 QUARTOS PRONTO PARA MORAR EM NOVA IGUAÇU",
+  "images": [
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789744058/8f486b68-5f83-4d60-9313-1fc2af8c42b1.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789744059/9bd24328-014e-4f77-9d13-c2628568a4a0.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789744113/87a886a0-987f-4af9-9716-c17b87322974.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789744116/801038d9-8ef3-447d-855c-e7ef8e99c25d.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789744115/826b27d2-4f40-4898-8076-d2b67a5b1cd6.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789744156/b29b3b2f-831c-48be-b436-3401592d4218.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789744208/d50047b5-96f4-412a-8c13-736076bacf32.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789744209/dac62897-16ef-405a-afca-8aa75a745cf3.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1789744056/3ef575a3-04d5-4ae8-8821-9760be6757e8.jpg"
+  ],
+  "videos": [
+    "https://res.cloudinary.com/qodjrluz/video/upload/c_limit,f_auto,q_auto,w_1600/v1789743998/WhatsApp_Video_2026-09-18_at_11.41.37.mp4"
+  ],
+  "type": "apartamento",
+  "suites": 1,
+  "id": "RZ - NI - 13",
+  "createdAt": "2026-09-18",
+  "description": "Finalmente você encontrou o apartamento dos seus sonhos na localização que você queria o GOLDEN CLUB!\nO Golden Club, possui plantas com 3 dormitórios sendo 1 suíte, varanda maravilhosa, cozinha americana planejada e área de serviço.\nEste é o apartamento ideal para você e sua família! Possui vaga de garagem\ncoberta, e como o nome já diz um lazer de clube com piscina, academia, salão de festas e uma ótima estrutura e segurança 24h.\nSem falar na localização, que está próximo de tudo, sem fazer você ter que se preocupar com o trânsito do dia a dia, colado na Dutra e a 3 minutos da Via Ligth, o calçadão de Nova Iguaçu é praticamente seu quintal, com escolas, hospitais, mercados, tudo que você e sua família precisam para viver com tranquilidade.\n\n",
+  "category": "pronto_mcmv"
+}
