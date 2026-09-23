@@ -1,0 +1,42 @@
+{
+  "isMcmvEligible": false,
+  "areaSqM": 74,
+  "parkingSpaces": 1,
+  "bathrooms": 1,
+  "price": 514000,
+  "city": "Nova Iguaçu",
+  "code": "RZ - NI - OASIS 2",
+  "featured": true,
+  "neighborhood": "LUZ",
+  "state": "RJ",
+  "address": "AVENIDA LUZ",
+  "bedrooms": 3,
+  "title": "APARTAMENTOS EM NOVA IGUAÇU COM 2 E 3 QUARTOS SUÍTE E VARANDA",
+  "images": [
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790175539/1_FACHADA.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790175540/1_LOCALIZA%C3%87%C3%83O.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790175540/1_PISCINA.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790175539/1_ESPA%C3%87O_ZEM.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790175459/1_ESPA%C3%87O_FITNESS.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790175459/1_ACADEMIA.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790175459/1_BRINQUEDOTECA.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790175632/1_SAL%C3%83O_DE_FESTA.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790175678/1_SPA_E_SAUNA.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790175680/1_SPA.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790175703/%C3%81REA_GOURMET.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790175692/1_VARANDA.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790175692/1_SU%C3%8DTE.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790175619/1_sala.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790175614/1_QUARTO_2.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790175459/1_cozinha.jpg"
+  ],
+  "type": "apartamento",
+  "suites": 1,
+  "id": "RZ - NI - 14",
+  "createdAt": "2026-09-23",
+  "description": "Criar seus filhos com liberdade, segurança e com total qualidade de vida é um sonho totalmente possível de ser realizado aqui no OASIS.\nSair da casa dos pais, da sogra, finalmente ter privacidade, ou então se livrar de vez do aluguel, é um sonho de muita gente...mas O OASIS vai muito além disso e vai superar suas expectativas!\n\n\nImagine viver em um lugar onde tudo que você precisa está ao seu alcance.\nA poucos minutos da Dutra, da UNIG, shopping Nova Iguaçu, de mercados, escolas e hospitais — você está conectado ao melhor de Nova Iguaçu sem abrir mão da tranquilidade.\n\n\nAgora imagine chegar em casa e aproveitar uma churrasqueira na sua sacada, treinar na academia completa, fazer compras sem sair do condomínio no mercado interno, relaxar na piscina e ainda contar com unidades garden que trazem a sensação de morar em uma casa com o conforto de um condomínio moderno.\nTudo isso você encontra aqui, no OASIS\n",
+  "features": [
+    "Empreendimento, com lazer de clube, ótima localização e com condições imperdíveis. "
+  ],
+  "category": "lancamento_mcmv"
+}
