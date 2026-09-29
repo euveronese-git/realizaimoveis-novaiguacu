@@ -1,0 +1,33 @@
+{
+  "isMcmvEligible": false,
+  "areaSqM": 58,
+  "parkingSpaces": 1,
+  "bathrooms": 1,
+  "price": 259999,
+  "city": "Nova Iguaçu",
+  "code": "RZ - NI - RESIDENCIAL BEIJA - FLOR",
+  "featured": true,
+  "neighborhood": "AUSTIN",
+  "state": "RJ",
+  "address": "Estrada Luiz Mario da Rocha Lima, 777",
+  "bedrooms": 2,
+  "title": "Casa Duplex em Condomínio Fechado",
+  "images": [
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790692546/293.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790692561/291.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790692548/398.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790692864/276.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790692857/285.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790692857/286.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790692854/283.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790692855/284.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790692856/287.jpg",
+    "https://res.cloudinary.com/qodjrluz/image/upload/c_limit,f_auto,q_auto,w_1600/v1790693008/288.jpg"
+  ],
+  "type": "casa",
+  "suites": 0,
+  "id": "RZ - NI - 16",
+  "createdAt": "2026-09-29",
+  "description": "RESIDENCIAL BEIJA-FLOR | AUSTIN – NOVA IGUAÇU\nLazer completo, 🛏️ 2 quartos, 🚗  vaga, 🧺 Área de serviço.\nLocalização, estratégica, próximo a rodovia Presidente Dutra, a poucos minutos do centro  de Austin, trazendo assim, mobilidade, comercio, escolas, clínicas de saúde e tudo que você e sua família precisa, o condomínio oferece também uma tecnologia única na região, entregando aos proprietários em aparelho, onde você tem total visualização pelo sistema de câmeras do condomínio.",
+  "category": "pronto_mcmv"
+}
