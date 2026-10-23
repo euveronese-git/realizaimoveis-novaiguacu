@@ -4,8 +4,8 @@ backend:
 
 local_backend: true
 
-site_url: https://realizaimoveis-novaiguacu.netlify.app
-display_url: https://realizaimoveis-novaiguacu.netlify.app
+site_url: https://realizaimobiliaria.netlify.app
+display_url: https://realizaimobiliaria.netlify.app
 
 media_folder: public/uploads
 public_folder: /uploads
