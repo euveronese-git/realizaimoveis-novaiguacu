@@ -1,0 +1,32 @@
+{
+  "isMcmvEligible": false,
+  "areaSqM": 34,
+  "parkingSpaces": 1,
+  "bathrooms": 1,
+  "price": 190000,
+  "city": "RIO DE JANEIRO",
+  "code": "RZ - ZN - ESTAÇÃO RIO",
+  "featured": true,
+  "neighborhood": "CORDOVIL",
+  "state": "RJ",
+  "address": "RUA IRNDUBA, 77",
+  "bedrooms": 2,
+  "title": "APARTAMENTO COM 2 QUARTOS EM CORDOVIL",
+  "images": [
+    "https://res.cloudinary.com/irv8nwuo/image/upload/c_limit,f_auto,q_auto,w_1600/v1792772943/1.png",
+    "https://res.cloudinary.com/irv8nwuo/image/upload/c_limit,f_auto,q_auto,w_1600/v1792772944/2.png",
+    "https://res.cloudinary.com/irv8nwuo/image/upload/c_limit,f_auto,q_auto,w_1600/v1792772943/3.png",
+    "https://res.cloudinary.com/irv8nwuo/image/upload/c_limit,f_auto,q_auto,w_1600/v1792772944/4.png",
+    "https://res.cloudinary.com/irv8nwuo/image/upload/c_limit,f_auto,q_auto,w_1600/v1792772976/5.png",
+    "https://res.cloudinary.com/irv8nwuo/image/upload/c_limit,f_auto,q_auto,w_1600/v1792772976/6.png",
+    "https://res.cloudinary.com/irv8nwuo/image/upload/c_limit,f_auto,q_auto,w_1600/v1792772976/7.png",
+    "https://res.cloudinary.com/irv8nwuo/image/upload/c_limit,f_auto,q_auto,w_1600/v1792772976/8.png",
+    "https://res.cloudinary.com/irv8nwuo/image/upload/c_limit,f_auto,q_auto,w_1600/v1792772977/9.jpg"
+  ],
+  "type": "apartamento",
+  "suites": 0,
+  "id": "RZ - ZN - 21",
+  "createdAt": "2026-10-23",
+  "description": "✨ Chegou a sua chance de conquistar o apê dos sonhos na Zona Norte! ✨\n\n*ESTAÇÃO RIO - OBRAS ACELERADAS*\n\n🏡 Apartamentos modernos de 2 quartos, com toda a comodidade que você e sua família merecem.\n🌿 E tem mais: opção de garden, exclusivo e perfeito para quem valoriza liberdade e aquele espaço ao ar livre!\n\n👉 Lazer para você viver momentos incríveis sem sair de casa.\n\n💰 E o melhor de tudo: entrada a partir de apenas R$ 500,00 e condições que cabem no seu bolso.\n\n📍 Localização estratégica em Cordovil, 4 minutos do mercado, 8minutos da estação do trem, 2 minutos da Avenida Brasil, 6 minutos do polo gastronômico de Vista Alegre, unindo praticidade, conforto e valorização!\n\n⚠️Uma região que valoriza sua identidade local e oferece fácil acesso\na todos os cantos da cidade, graças ao trem e diversas opções de\ntransporte. Além disso, a região é repleta de serviços\ne farto comércio, garantindo\npraticidade e qualidade de vida, celebrando a essência\ne o espírito do bairro.\n\n🚀 Não deixe para depois! Essa é a oportunidade que pode transformar sua vida.\n\n📲 Fale agora mesmo e garanta o seu!\n☎️ 21 97550 3489 tenho WhatsApp.\n",
+  "category": "lancamento_mcmv"
+}
