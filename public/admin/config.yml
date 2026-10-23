@@ -13,8 +13,8 @@ public_folder: /uploads
 media_library:
   name: cloudinary
   config:
-    cloud_name: qodjrluz
-    api_key: "823687155364381"
+    cloud_name: irv8nwuo
+    api_key: "691389831641362"
     folder: realiza/imoveis
     default_transformations:
       - - fetch_format: auto
