@@ -1,0 +1,31 @@
+{
+  "isMcmvEligible": false,
+  "areaSqM": 45,
+  "parkingSpaces": 1,
+  "bathrooms": 1,
+  "price": 130000,
+  "city": "BELFORD ROXO",
+  "code": "RZ - BRX - RESERVA",
+  "featured": true,
+  "neighborhood": "BOM PASTOR",
+  "state": "RJ",
+  "address": "ESTRADA BELFORD ROXO, N. 977",
+  "bedrooms": 2,
+  "title": "APARTAMENTOS PRONTOS PARA MORAR EM BELFORD ROXO",
+  "images": [
+    "https://res.cloudinary.com/irv8nwuo/image/upload/c_limit,f_auto,q_auto,w_1600/v1793131293/WhatsApp_Image_2000026-09-28_at_16.01.03.jpg",
+    "https://res.cloudinary.com/irv8nwuo/image/upload/c_limit,f_auto,q_auto,w_1600/v1793131292/WhatsApp_Image_2026-09-20008_at_16.01.03.jpg",
+    "https://res.cloudinary.com/irv8nwuo/image/upload/c_limit,f_auto,q_auto,w_1600/v1793131304/WhatsApp_Video_2026-09-02_at_16.25.02.jpg",
+    "https://res.cloudinary.com/irv8nwuo/image/upload/c_limit,f_auto,q_auto,w_1600/v1793131300/WhatsApp_Image000_2026-09-28_at_16.01.02.jpg",
+    "https://res.cloudinary.com/irv8nwuo/image/upload/c_limit,f_auto,q_auto,w_1600/v1793131287/WhatsApp_Image_2026-09-29_at_10.56.15.jpg",
+    "https://res.cloudinary.com/irv8nwuo/image/upload/c_limit,f_auto,q_auto,w_1600/v1793131286/WhatsApp_Image_2026-09-28_at_16.01.04.jpg",
+    "https://res.cloudinary.com/irv8nwuo/image/upload/c_limit,f_auto,q_auto,w_1600/v1793131263/07.jpg",
+    "https://res.cloudinary.com/irv8nwuo/image/upload/c_limit,f_auto,q_auto,w_1600/v1793131263/06.jpg"
+  ],
+  "type": "apartamento",
+  "suites": 0,
+  "id": "RZ - BRX - 21",
+  "createdAt": "2026-10-27",
+  "description": "Não é só o primeiro imóvel, é \"O\" imóvel!\nSair da casa dos pais, da sogra, finalmente ter privacidade, ou então se livrar de vez do aluguel, é um sonho de muita gente...mas esse apartamento aqui vai muito além disso e vai superar suas expectativas!\nLocalização estratégica, comércio local, UPA, linhas de ônibus.\n",
+  "category": "pronto_mcmv"
+}
