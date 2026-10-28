@@ -5,7 +5,7 @@
   "bathrooms": 2,
   "price": 550000,
   "city": "SÃO JOÃO DE MERITI",
-  "code": "RZ - SJM - CASA PRAÇA DA BANDEIRA",
+  "code": "RZ - SJM - CASA  VILAR DOS TELES",
   "featured": true,
   "neighborhood": "VILAR DOS TELES",
   "state": "RJ",
@@ -28,6 +28,6 @@
   "suites": 1,
   "id": "RZ - SJM - 22",
   "createdAt": "2026-10-27",
-  "description": "Casas super confortável, compostas de 2 andares mais terraço, cômodos grandes, quintal com espaço para 2 carros, localização tranquila, comercio farto, com tudo que você precisa, padarias, farmácias, escolas, mercados, a 8 minutos andando da prefeitura do município, próximo a rodoviária da praça da bandeira, próximo a estação de trem de Coelho da Rocha, próximo ao centro comercial de Vilar dos teles, tudo que você precisa em um só lugar.",
+  "description": "Casas super confortável, compostas de 2 andares mais terraço, cômodos grandes, quintal com espaço para 2 carros, localização tranquila, comercio farto, com tudo que você precisa, padarias, farmácias, escolas, mercados, a 8 minutos andando da prefeitura do município, próximo ao fórum, posto de saúde Viriato, Senac, próximo ao centro comercial de Vilar dos teles, tudo que você precisa em um só lugar.",
   "category": "pronto_mcmv"
 }
