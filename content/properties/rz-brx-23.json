@@ -1,0 +1,27 @@
+{
+  "id": "RZ - BRX - 23",
+  "code": "RZ - SAN MARINO",
+  "title": "APARTAMENTO NO CENTRO DE BELFORD ROXO",
+  "type": "apartamento",
+  "category": "pronto_mcmv",
+  "price": 130000,
+  "neighborhood": "Bairro das Graças",
+  "address": " Rua Amália Rocha, n° 350",
+  "city": "Belford Roxo",
+  "state": "RJ",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "suites": 0,
+  "parkingSpaces": 1,
+  "areaSqM": 46,
+  "featured": false,
+  "isMcmvEligible": false,
+  "description": "Localização 3 minutos da UNIABEU e a 8 minutos do centro de Belford Roxo andando.\nPróximo a estação de trem, hospitais, clinicas, escolas.\nJá imaginou sair do aluguel, morar no centro do município e com possibilidade de comprar seu imóvel sem entrada, vem que vamos te ajudar.",
+  "images": [
+    "https://res.cloudinary.com/irv8nwuo/image/upload/c_limit,f_auto,q_auto,w_1600/v1795013886/d39f6e0b-ca85-470f-a59a-a1d534fcfcad.jpg"
+  ],
+  "videos": [
+    "https://res.cloudinary.com/irv8nwuo/video/upload/c_limit,f_auto,q_auto,w_1600/v1795014018/WhatsApp_Video_2026-11-17_at_17.23.33.mp4"
+  ],
+  "createdAt": "2026-11-18"
+}
