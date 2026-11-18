@@ -1,0 +1,31 @@
+{
+  "id": "RZ - NI - 23",
+  "code": "RZ - NI - BRISAS DO OUTEIRO",
+  "title": "APARTAMENTO EM NOVA IGUAÇU PRONTO PARA MORAR.",
+  "type": "apartamento",
+  "category": "pronto_mcmv",
+  "price": 185000,
+  "neighborhood": "JARDIM ALVORADA",
+  "address": "AVENIDA  ABILIO AUGUSTO TAVORA - 3769",
+  "city": "Nova Iguaçu",
+  "state": "RJ",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "suites": 0,
+  "parkingSpaces": 1,
+  "areaSqM": 41,
+  "featured": false,
+  "isMcmvEligible": false,
+  "description": "Apartamento, pronto para morar nunca habitado, em condomínio completo, próximo a UNIG, mercados, escolas, shopping, 14 linhas de ônibus na porta, em um bairro totalmente estruturado, não tem comunidade e o melhor, tudo isso com o beneficio do programa habitacional do governo, saiba como adquirir esse imóvel.",
+  "images": [
+    "https://res.cloudinary.com/irv8nwuo/image/upload/c_limit,f_auto,q_auto,w_1600/v1795012742/db21d8aa-975d-4700-b7e5-5ca2fbf53472.jpg",
+    "https://res.cloudinary.com/irv8nwuo/image/upload/c_limit,f_auto,q_auto,w_1600/v1795012788/ea60a66e-3952-41c0-9988-f1daa86974da.jpg",
+    "https://res.cloudinary.com/irv8nwuo/image/upload/c_limit,f_auto,q_auto,w_1600/v1795012745/cb2d5f31-7c94-40a6-8b2d-e29b96349e57.jpg",
+    "https://res.cloudinary.com/irv8nwuo/image/upload/c_limit,f_auto,q_auto,w_1600/v1795012741/a7eb7455-3359-475e-93ef-0a59a7921d10.jpg",
+    "https://res.cloudinary.com/irv8nwuo/image/upload/c_limit,f_auto,q_auto,w_1600/v1795012740/8b3c4668-f0fd-4e57-ba15-c87949e98e29.jpg"
+  ],
+  "videos": [
+    "https://res.cloudinary.com/irv8nwuo/video/upload/c_limit,f_auto,q_auto,w_1600/v1795012692/WhatsApp_Video_2026-11-17_at_14.00.51.mp4"
+  ],
+  "createdAt": "2026-11-18"
+}
